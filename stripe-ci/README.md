@@ -1,7 +1,7 @@
 # smr
-Setup stripe keys in config 
-Choose product 
-Redirect to stripe
-Enter details
-Proceed payment 
-Payment received on merchnat account
+Setup stripe keys in config <br />
+Choose product <br />
+Redirect to stripe <br />
+Enter details <br />
+Proceed payment <br />
+Payment received on merchnat account <br />
