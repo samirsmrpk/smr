@@ -1,0 +1,24 @@
+{
+  "name": "shopify-node-live",
+  "version": "1.0.0",
+  "description": "app for order transformation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@shopify/shopify-api": "^5.0.0",
+    "axios": "^0.27.2",
+    "cookie": "^0.5.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "nonce": "^1.0.4",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "shopify-token": "^4.0.4"
+  }
+}
