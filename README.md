@@ -1,6 +1,6 @@
 # smr
 Portfolio repository </br>
-<b>Camera Integration<b> </br>
+**Camera Integration** </br>
 It is used to access device camera and capture pictures and videos. </br>
 <b> Otp Method </b> </br>
 It is used for two factor authentication by using OTP code. </br>
