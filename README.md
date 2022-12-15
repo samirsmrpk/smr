@@ -6,7 +6,7 @@ It is used to access device camera and capture pictures and videos. </br>
 It is used for two factor authentication by using OTP code. </br>
 ***Paypal*** </br>
 Code for payment using pyapal, one time payment for buying products. Mostly for e-commerce platforms. </br>
-***Scanner***
+***Scanner*** </br>
 It is used to scan Barcode and QR code.</br>
 ***Shopify node***</br>
 It integrates shopify store and orders into your system.</br>
